@@ -1,8 +1,11 @@
+OpenCV:
 OpenCV开发专栏博客       https://blog.csdn.net/qq21497936/article/details/100583521
-
 长沙红胖子开发专栏csdn    https://blog.csdn.net/qq21497936/article/details/102478062
-
 
 
 modbus协议：
 详解modbus通信协议        https://blog.csdn.net/as480133937/article/details/123197782
+
+
+qt与plc_modbus通信：
+qt联合modbus(TCP)读写通信数据      https://blog.csdn.net/LonelyBHBH/article/details/125239234
